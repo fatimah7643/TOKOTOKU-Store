@@ -18,13 +18,13 @@ Toko-Toku adalah aplikasi marketplace sederhana berbasis Flutter yang menampilka
 ## Screenshot
 
 ### Tampilan Utama
-![UI 1](screenshot/image_1.png)
+![UI 1](lib/screenshot/image_1.png)
 
 ### Tampilan Produk
-![UI 2](screenshot/image_2.png)
+![UI 2](lib/screenshot/image_2.png)
 
 ### Tampilan Navigasi
-![UI 3](screenshot/image_3.png)
+![UI 3](lib/screenshot/image_3.png)
 
 ## Wireframe
-![Wireframe](wireframe/wireframe_foto.png)
+![Wireframe](lib/wireframe/wireframe_foto.png)
