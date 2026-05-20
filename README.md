@@ -1,9 +1,5 @@
 # Toko-Toku Marketplace UI
 
-## Identitas
-- Nama: NAMA KAMU
-- NIM: NIM KAMU
-- Pilihan: C
 
 ## Deskripsi Singkat
 Toko-Toku adalah aplikasi marketplace sederhana berbasis Flutter yang menampilkan halaman beranda modern dengan banner promo, kategori produk, dan grid produk.
